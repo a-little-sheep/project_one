@@ -1,0 +1,354 @@
+    1  node -v
+    2  npm -v
+    3  cnpm -v
+    4  ls
+    5  cd ..
+    6  ls
+    7  npm
+    8  ls
+    9  ls\
+   10  ls
+   11  git branch
+   12  git init
+   13  git remote add sae https://git.sinacloud.com/siyecao2
+   14  git branch
+   15  git branch
+   16  git status
+   17  git add.
+   18  git add .
+   19  git commit -m "创建链接"
+   20  git push sae master:1
+   21  git push sae master:2
+   22  git pull\
+   23  git pull
+   24  git config --
+   25   git config --global user.email "yy2315824097@163.com"
+   26  git pull
+   27  git pull
+   28  git remote add sae https://git.sinacloud.com/siyecao2
+   29  git init
+   30  git remote add sae https://git.sinacloud.com/siyecao2
+   31  git branch
+   32  git pull
+   33  git touch index.html
+   34  git add index.html
+   35  git commit -m "indext提交"
+   36  run
+   37  git config --global user.email "yy2315824097@163.com"
+   38  git config --global user.name "四叶草1314的春天"
+   39  $ git commit -m "indext提交"
+   40  git commit -m "indext提交"
+   41  git push sae master:1
+   42  git status
+   43  git pull
+   44  $ git config --global user.email "yy2315824097@163.com"
+   45  git config --global user.email "yy2315824097@163.com"
+   46  git push  sae master:1
+   47  git init
+   48  mkdir newapp && cd newapp
+   49  remote add sae https://git.sinacloud.com/newapp
+   50  touch index.html
+   51  git add index.html
+   52  git commit -m"initial commit"
+   53  git push sae master:1
+   54  git config --global user.email "yy2315824097@163.com"
+   55  git push sae master:1
+   56  git branch
+   57  git remote add sae https://git.sinacloud.com/newapp
+   58  git pull\
+   59  git pull
+   60  git config credential.https://git.sinacloud.com/siyecao
+   61  git config --https://git.sinacloud.com/siyecao\
+   62  git config --https://git.sinacloud.com/siyecao
+   63  git config [<options>] https://git.sinacloud.com/siyecao
+   64  git pull
+   65  git config credential.https://git.sinacloud.com/siyecao.yy2315824097@163.com
+   66  git branch
+   67  git push sae master:1
+   68  ls
+   69  git branch
+   70  git status
+   71  ls
+   72   git remote add sae https://git.sinacloud.com/siyecao
+   73  ls
+   74  cd ..
+   75  ls
+   76  ls
+   77  cd
+   78  ls
+   79  ls
+   80  git clone yy2315824097@163.com@https://git.sinacloud.com/siyecao
+   81  git clone https://git.sinacloud.com/siyecao
+   82  ls
+   83  gicd siyecao/
+   84  ls
+   85  cd siyecao/
+   86  ls
+   87  git branch
+   88  gicd ..
+   89  ls
+   90  cd
+   91  cd siyecao/
+   92  ls
+   93  git branch
+   94  touch index.html
+   95  ls
+   96  git branch
+   97  ls
+   98  sudo vi index.html 
+   99  vi index.html 
+  100  cat index.html 
+  101  ls
+  102  git push origin master
+  103  git add .
+  104  git commit it -m 'dfd'
+  105  ls
+  106  git init
+  107  git branch
+  108  git add .
+  109  cat index.html 
+  110  git commit it -m 'ds'
+  111  git commit -m 'ds'
+  112  git push sae master:1
+  113  git push 
+  114  ls
+  115  git status
+  116  git push origin/master
+  117  git push sae master
+  118  git push sae master:1
+  119  ls
+  120  git branch
+  121  git push orgin master
+  122  git push 
+  123  git push orgin 1
+  124  git push origin 1
+  125  git push origin master
+  126  git push origin 1
+  127  git branch
+  128  git checkout -b 1:1
+  129  git checkout -b 1
+  130  git branch
+  131  git branch -D 1
+  132  git checkout master
+  133  git branch -D 1
+  134  git push sae master:1
+  135  git status
+  136  git branch --unset-upstream
+  137  gt status
+  138  git status
+  139  cat index.html 
+  140  git add .
+  141  git commit -m'df' 
+  142   git push sae master:1
+  143  git status
+  144  git push sae master:!
+  145  git push sae master:1
+  146  git checkout -b 1:origin/1
+  147  git branch --set-upstream 1 origin/1
+  148  git branch --set-upstream master origin/master
+  149  git branch --set-upstream master sae master
+  150  git branch
+  151  git push master
+  152  git push origin master
+  153  s
+  154  ls
+  155  ls
+  156  cd ..l
+  157  cd
+  158  s
+  159  cd ..
+  160  ls
+  161  ls
+  162  cd Administrator/
+  163  ls
+  164  git rm siyecao -rf
+  165  rm siyecao 
+  166  rm siyecao  -rf
+  167  mkdir siyecao
+  168  cd siyecao/
+  169  vi index.html
+  170  cat index.html 
+  171  ls
+  172  git init
+  173  ls
+  174  git branch
+  175  ls
+  176  git branh
+  177  git branch
+  178  git status
+  179  git add .
+  180  git commit -m 'sds'
+  181  git remote add sae https://git.sinacloud.com/siyecao12
+  182  git add 
+  183  git add .
+  184  git commit -m 'ss'
+  185  git push sae master:1
+  186  git push sae master:1
+  187  git branch
+  188  git branch
+  189  git checkout out -b feature-test
+  190  git checkout  -b feature-test
+  191  git branch
+  192  ls
+  193  vi index.html 
+  194  git status
+  195  git add .
+  196  ls
+  197  ls
+  198  git checkout master 
+  199  git merge feature-test 
+  200  git branch
+  201  git checkout feature-test 
+  202  git status
+  203  git add .
+  204  git commit -m 'sd'
+  205  git push sae feature-test 
+  206  git branch
+  207  git checkout master
+  208  git merge feature-test 
+  209  cat index.html 
+  210  git add .
+  211  git commit -m 'sd'
+  212  git push sae/1
+  213  git push sae master 
+  214  git push sae master:1
+  215  ls
+  216  ifconig
+  217  ifconfig
+  218  ipconfig
+  219  ls
+  220  php think make:controller admin/Entry --plain
+  221  npm install -g yo generator-thinkphp
+  222  ls
+  223  npm run dev
+  224  ls
+  225  cd sell
+  226  ls
+  227  npm run dev
+  228  npm itself
+  229  npm bugs sell
+  230  npm bugs sell
+  231  npm owner is sell
+  232  npm owner ls sell
+  233  sudo lsof -i :8080
+  234  sudo isof -i :8080
+  235  sudo isof -i:8080
+  236  sudo lsof -i:8080
+  237  npm ls --depth=0
+  238  ls
+  239   node -v
+  240  sudo npm cache clean -f
+  241  npm cache clean -f
+  242  npm install -g n
+  243  sudo n stable
+  244  n stable
+  245  node -v
+  246  n stable
+  247  node.js stable
+  248  node stable
+  249  gnvm version
+  250  ls
+  251  npm run dev
+  252  npm install -g npm
+  253  cnpm install -g cnpm
+  254  npm install -g npm
+  255  node -v
+  256  ls
+  257  npm run dev
+  258  node --version
+  259  node -v
+  260  node --version
+  261  node -v
+  262  node -v
+  263  npm run dev
+  264  ls
+  265  node -v
+  266  npm install -g vue-cli
+  267  npm run dev
+  268  node -v
+  269  npm install -g vue-cli
+  270  cnpm install -g vue-cli
+  271  npm install -g vue-cli
+  272  vue
+  273  vue list
+  274  vue init webpack
+  275  vue init webpack app
+  276  ls
+  277  cd app
+  278  ls
+  279  ll -a
+  280  npm install
+  281  ls
+  282  cd node_modules/
+  283  ls
+  284  cd ../
+  285  npm run dev
+  286  l
+  287  ls
+  288  node.js
+  289  node -v
+  290  ls
+  291  cd project/
+  292  ls
+  293  cd node.js
+  294  ls
+  295  node dome1.js 
+  296  node dome1.js 
+  297  node dome1.js 
+  298  node dome1.js 
+  299  node dome1.js 
+  300  node dome1.js 
+  301  node dome1.js
+  302  node dome1.js
+  303  node dome1.js
+  304  ls
+  305  mkdir dome
+  306  ls
+  307  cd dome
+  308  git init
+  309  touch index.txt
+  310  ls
+  311  ls
+  312  car index.tet
+  313  car index.txt
+  314  cat index.txt
+  315  cat index.txt
+  316  vi index.txt
+  317  git status
+  318  git add .
+  319  git commit -m "dom1"
+  320  git branch
+  321  git push origin master
+  322  git push master
+  323  l
+  324  ls
+  325  cdvi index.txt 
+  326  vi index.txt 
+  327  git status
+  328  git commit -m "hh"
+  329  git add .
+  330  git status
+  331  git commit -m "hhh"
+  332  git log
+  333  git diff
+  334  git reset --hard  db16c819a7b6ade689097
+  335  git reflog 
+  336  git ls
+  337   ls
+  338  git branch
+  339  git checkout -b dev
+  340  git branch
+  341  git pull
+  342  touch index.js
+  343  ls
+  344  git status
+  345  git add .
+  346  git commit -m "div_one"
+  347  ls
+  348  git branch
+  349  git checkout master 
+  350  git merge dev
+  351  clear
+  352  ls
+  353  git branch
+  354  history > zl.txt
